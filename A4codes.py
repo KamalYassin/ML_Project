@@ -1,6 +1,4 @@
-#COMP3105 A4
-#Kamal Yassin (101265070)
-#Hussam Al Nabtiti (101267733)
+#Kamal Yassin 
 
 import numpy as np
 import pandas as pd
