@@ -1,11 +1,12 @@
 # Handwritten Digit Classifier (CNN)
 
 A convolutional neural network (CNN) for classifying handwritten digits using TensorFlow/Keras.  
+<img width="485" height="349" alt="ML_pic" src="https://github.com/user-attachments/assets/61f9e837-a7b7-45fe-aced-36dca6681410" />
 
 
 <p align="center">
   <img 
-    src="https://github.com/user-attachments/assets/644e0a4c-38fa-4936-9270-e3fd99deb8d9" />
+    src="https://github.com/user-attachments/assets/61f9e837-a7b7-45fe-aced-36dca6681410" />
     alt="ML_pic"
     width="420"
   />
