@@ -5,7 +5,7 @@ A convolutional neural network (CNN) for classifying handwritten digits using Te
 
 <p align="center">
   <img 
-    src="/mnt/data/Screenshot 2025-11-23 at 11.52.01 PM.png"
+    src="https://github.com/user-attachments/assets/92e26b85-b63f-4250-920b-0b4f7c3fcf6c"
     alt="ML_pic"
     width="420"
   />
