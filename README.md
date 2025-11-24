@@ -3,8 +3,13 @@
 A convolutional neural network (CNN) for classifying handwritten digits using TensorFlow/Keras.  
 
 
-<img width="485" height="349" alt="ML_pic" src="https://github.com/user-attachments/assets/92e26b85-b63f-4250-92db-0b4f7c3fcf6c" />
-
+<p align="center">
+  <img 
+    src="/mnt/data/Screenshot 2025-11-23 at 11.52.01 PM.png"
+    alt="ML_pic"
+    width="420"
+  />
+</p>
 
 ## 🧠 Project Overview
 
