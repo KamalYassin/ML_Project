@@ -6,7 +6,6 @@ A convolutional neural network (CNN) for classifying handwritten digits using Te
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/61f9e837-a7b7-45fe-aced-36dca6681410" />
-  />
 </p>
 
 ## 🧠 Project Overview
